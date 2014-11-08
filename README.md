@@ -1,4 +1,4 @@
-##service.dialog.jquery
+##service.dialog.jquery - Dialog popup
 
 ###Description
 
