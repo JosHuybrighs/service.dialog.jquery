@@ -40,7 +40,7 @@
  ******************************************************************************************************/
 
 ; (function ($, win, document, undefined) {
-
+    var version = '1.0.0';
     var pluginName = 'dialog';
 
     function Plugin(element, options) {
